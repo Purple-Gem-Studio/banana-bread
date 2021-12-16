@@ -1,0 +1,31 @@
+{
+  "name": "banana-bread",
+  "version": "0.1.0",
+  "description": "Host, or connect to, a P2P web server 🍌🍞",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purple-Gem-Studio/banana-bread.git"
+  },
+  "keywords": [
+    "p2p",
+    "web",
+    "server",
+    "host",
+    "connect",
+    "join",
+    "file",
+    "files",
+    "transfer"
+  ],
+  "author": "Joseph Caruso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Purple-Gem-Studio/banana-bread/issues"
+  },
+  "homepage": "https://github.com/Purple-Gem-Studio/banana-bread#readme"
+}
